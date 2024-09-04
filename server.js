@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const PORT = 5000;
+const PORT = 6000;
 
 // Import the items controller.js
 const itemsController = require("./controller");
